@@ -100,8 +100,6 @@ code{
 
 @media(max-width: 600px){
     #navbar{
-        position: fixed;
-        top: 0;
         width: 100vw;
     }
     #main-doc p{
@@ -110,10 +108,6 @@ code{
     #main-doc header{
         margin-left: 1rem;
     }
-    #Introduction{
-        margin-top: 45rem;
-    }
-    
     #main-doc code{
         margin-left: 4.5rem;
     }
